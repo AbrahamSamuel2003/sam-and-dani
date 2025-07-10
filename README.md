@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="aromoaproject.css">     
 </head>
 
-<body { font-family: 'Roboto' , sans-serif; }>
+
 
   <!-- Navbar -->
   <!-- Navbar -->
