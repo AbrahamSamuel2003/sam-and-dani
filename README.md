@@ -1,1 +1,213 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aroma Ghee Distributors</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="aromoaproject.css">     
+</head>
+
+<body { font-family: 'Roboto' , sans-serif; }>
+
+  <!-- Navbar -->
+  <!-- Navbar -->
+  <div class="navbar">
+    <img src="logo.png" alt="Aroma Logo" />
+
+    <div class="agency-name">Sam and Dani Agency</div>
+
+    <div class="nav-links">
+      <a href="product.html">Products</a>
+      <a href="https://abrahamsamuel2003.github.io/aromagheesite/">Order</a>
+      <a href="about1.html">About</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+
+
+
+
+    <div class="green-header">
+        <h1>SAM AND DANI AGENCY</h1>
+        <img src="logo.png" alt="Logo" height="50px" width="auto">
+        <h2>Aroma Ghee and Diary Products</h2>
+    </div>
+
+    <hr>
+
+
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pV7mLQGyd-I?si=i0pPuODVvSvYYE12"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <div class="summary">
+        Sam and Dani Agency is one of the leading dairy companies in South India. Located at Karanampettai near
+        Coimbatore, our products are marketed under the brand name <strong>"Aroma"</strong>.
+        Our successful journey with dairy began in 1972 with a simple goal – to serve the poor and economically weaker
+        dairy farmers of Coimbatore and its nearby districts. Since its inception, Sri Mahalakshmi Dairy Private Limited
+        has helped serve the farmer community with dedication and affection. As a result, the farmers have developed an
+        increasing loyalty to our organisation, all of which is reflected in our yearly growth. To retain our
+        agricultural heritage, as well as to protect the socio – economic status at the village level, we are committed
+        to long – term growth and sustainability.
+
+        Our milk is sourced from dairy cows that are fed over grassy meadows, ensuring a purity and freshness that stays
+        for longer. Our variety in dairy products range from Fresh Milk, Fresh Curd,Fresh Cream, Flavoured Milk,
+        Unsweetened Khova ,Paneer, Ghee, Skimmed Milk Powder and Whole Milk Powder. Our dairy is ISO 9001, ISO 14001,
+        OHSAS18001, FSSAI, BIS and AGMARK certified.
+    </div>
+
+    <div class="card-container">
+        <div class="card">
+            <a
+                href="https://www.google.com/imgres?q=aroma%20500%20ghee%20png%20format&imgurl=https%3A%2F%2Fwww.aromamilk.com%2Fimages%2Fghee.png&imgrefurl=https%3A%2F%2Fwww.aromamilk.com%2Fghee.php&docid=HkJEqHJu2KTxIM&tbnid=wdfz5Bd6U3t3MM&vet=12ahUKEwji5qyir-uNAxU-zzgGHYDFDFcQM3oECBgQAA..i&w=525&h=670&hcb=2&ved=2ahUKEwji5qyir-uNAxU-zzgGHYDFDFcQM3oECBgQAA"><img
+                    src="aroma-ghee-jar-500ml.png" alt="Aroma Ghee 500ml"></a>
+            <div class="product-name">Aroma Ghee 500 ml</div>
+            <div class="price">₹300</div>
+        </div>
+
+        <div class="card">
+            <a
+                href="https://www.aromabakeryonline.com/image/cache/catalog/products/ghee/aroma-ghee-jar-200ml-600x600.jpg">
+                <img src="aroma-ghee-jar-100ml.png" alt="Aroma Ghee 200ml"></a>
+            <div class="product-name">Aroma Ghee 200 ml</div>
+            <div class="price">₹120</div>
+        </div>
+
+        <div class="card">
+            <a
+                href="https://www.aromabakeryonline.com/image/cache/catalog/products/ghee/aroma-ghee-pouch-100ml-600x600.jpg"><img
+                    src="aroma-ghee-pouch-100ml.png" alt="Aroma Ghee 100ml"></a>
+            <div class="product-name">Aroma Ghee 100 ml</div>
+            <div class="price">₹60</div>
+        </div>
+
+        <div class="card">
+            <a
+                href="https://5.imimg.com/data5/SELLER/Default/2021/3/ZP/FA/TR/123459198/50ml-aroma-agmark-ghee-500x500.jpg"><img
+                    src="allghee.png" alt="Aroma Ghee 50ml"></a>
+            <div class="product-name">Aroma Ghee 50 ml</div>
+            <div class="price">₹30</div>
+        </div>
+    </div>
+    <hr>
+
+    <div class="best-sellers-wrapper">
+        <!-- Left: Best Sellers -->
+        <div class="best-sellers">
+            <!-- Your Best Sellers product grid/cards here -->
+        </div>
+
+        <!-- Right: Founder Quote -->
+        <div class="right-box">
+            <h3>Our Philosophy</h3>
+            <p>We believe beauty lies in timeless craftsmanship. Each piece is a story told with care and detail.</p>
+            <p><strong>– -Samsan Dhara</strong></p>
+        </div>
+    </div>
+    </div>
+
+
+
+
+    <section style="padding: 50px 20px; background-color: #fffbe6;">
+        <div style="background-color: #fff;
+    border: 2px solid #f1c40f;
+    border-radius: 16px;
+    padding: 40px 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    max-width: 1000px;
+    margin: auto;
+  " onmouseover="this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.1)'; this.style.transform='scale(1.01)';"
+            onmouseout="this.style.boxShadow='0 4px 10px rgba(0, 0, 0, 0.05)'; this.style.transform='scale(1)';">
+
+            <h2 style="text-align: center;">Why Choose Aroma Ghee?</h2>
+            <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 30px;">
+                <div style="text-align: center; max-width: 200px;">
+                    <img src="pure-icon1.png" alt="Pure" style="width: 60px;">
+                    <p><strong>100% Pure</strong><br>Crafted from farm-fresh milk.</p>
+                </div>
+                <div style="text-align: center; max-width: 200px;">
+                    <img src="agmark-icon.png" alt="Agmark" style="width: 60px;">
+                    <p><strong>Agmark Certified</strong><br>Every batch quality checked.</p>
+                </div>
+                <div style="text-align: center; max-width: 200px;">
+                    <img src="tradition-icon.png" alt="Traditional" style="width: 60px;">
+                    <p><strong>Traditional Taste</strong><br>Made the classic Indian way.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section style="background-color: #fef6e4; padding: 50px 20px;">
+        <div style="
+    background-color: #fff;
+    border: 2px solid #f1c40f;
+    border-radius: 16px;
+    padding: 40px 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    max-width: 900px;
+    margin: auto;
+  " onmouseover="this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.1)'; this.style.transform='scale(1.01)';"
+            onmouseout="this.style.boxShadow='0 4px 10px rgba(0, 0, 0, 0.05)'; this.style.transform='scale(1)';">
+
+            <h2 style="text-align: center;">What Our Customers Say</h2>
+            <div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+                <blockquote style="max-width: 300px; font-style: italic;">
+                    "Aroma Ghee reminds me of my grandmother’s homemade ghee. So fresh and flavorful!"<br>
+                    — <strong>Ramesh, Chennai</strong>
+                </blockquote>
+                <blockquote style="max-width: 300px; font-style: italic;">
+                    "I trust Aroma for my kids. The purity and aroma are unmatched."<br>
+                    — <strong>Meera, Coimbatore</strong>
+                </blockquote>
+            </div>
+        </div>
+    </section>
+
+
+    <p class="footer-nav">
+        <a href="aromaform.html">Order Our Products</a> |
+        <a href="privacy.html">Privacy Policy</a> |
+        <a href="about1.html">About Us</a>
+    </p>
+
+
+
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-logo">
+                <img src="logo.png" alt="Aroma Logo">
+                <p>© 2025 Sam and Dani Agency Pvt Ltd</p>
+            </div>
+
+            <div class="footer-links">
+                <a href="aromaproject.html">Home</a>
+                <a href="about1.html">About Us</a>
+                <a href="product.html">Products</a>
+                <a href="contact.html">Contact</a>
+            </div>
+
+            <div class="footer-contact">
+                <p><strong>Call:</strong> +91 9894987875</p>
+                <p><strong>Email:</strong> infoaroma@airtelmail.in</p>
+                <p><strong>GST:</strong> 33ABCCS2484C1ZN</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+
+</html>
